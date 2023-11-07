@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-iosstudy6-1/Pods-iosstudy6-1-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AnimatedCollectionViewLayout/AnimatedCollectionViewLayout.framework
+${BUILT_PRODUCTS_DIR}/BubbleTransition/BubbleTransition.framework
+${BUILT_PRODUCTS_DIR}/Hero/Hero.framework
+${BUILT_PRODUCTS_DIR}/Pastel/Pastel.framework
